@@ -1,0 +1,7 @@
+{
+  "name": "portofolio",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./", "binding": "ASSETS", "run_worker_first": true },
+  "kv_namespaces": [{ "binding": "DB", "id": "GANTI_DENGAN_ID_KV" }]
+}
