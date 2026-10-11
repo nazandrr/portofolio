@@ -3,5 +3,4 @@
   "main": "worker.js",
   "compatibility_date": "2026-10-01",
   "assets": { "directory": "./", "binding": "ASSETS", "run_worker_first": true },
-  "kv_namespaces": [{ "binding": "DB", "id": "GANTI_DENGAN_ID_KV" }]
-}
+  "kv_namespaces": [{ "binding": "DB", "id": "7f3ef8837124461eb570d793b3b9ecdd" }] 
